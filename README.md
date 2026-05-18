@@ -127,28 +127,4 @@ https://github.com/AhmedYaser-Mt/Project-9-Date-and-Period-Libraries-OOP-
 
 ---
 
-```cpp
-// Focused on mastering Software Development
-
-class AhmedYaserMt
-{
-public:
-
-  string university = "Benha University";
-
- string faculty = "Faculty of Computers & Artificial Intelligence (BFCAI)";
-
- string track = "Future Software Developer";
-
- string passion = "Problem Solving & Building Systems";
-
- void sayHi()
- {
-     cout << "Thanks for visiting my profile 🚀";
- }
-};
-```
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
