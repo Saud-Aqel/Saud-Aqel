@@ -64,19 +64,6 @@
 
 ---
 
-# 📊 GitHub Metrics Dashboard
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedYaser-Mt&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedYaser-Mt&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedYaser-Mt&theme=tokyonight"/>
-
-</p>
-
----
 
 # ⭐ Featured Projects
 
