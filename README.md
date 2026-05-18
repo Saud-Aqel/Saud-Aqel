@@ -1,67 +1,181 @@
-<div align="center">
-  <h1>Hi there, I'm <a href="#">Saud Aqel</a> 👋</h1>
-  <p align="center">
-    <img src="Des" alt="Views" />
-  </p>
-  
-  <p><b>🚀 Full Stack Desktop Developer | .NET Framework Specialist</b></p>
-  <p><i>"Writing clean, scalable code using the Divide and Conquer strategy."</i></p>
-</div>
+<!-- HEADER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Ahmed%20Yaser%20Metwalli&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+
+<h1 align="center">👋 Hello, I'm Ahmed Yaser</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=C%2B%2B%20%7C%20C%23%20%7C%20.NET%20%7C%20Windows%20Forms%20%7C%20SQL%20Server;OOP%20%7C%20Data%20Structures;Algorithms%20%26%20Problem%20Solving;Future%20Software%20Developer"/>
+</p>
+
+
 
 ---
 
-### 🛠 My Tech Stack
+# 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</div>
+🎓 Student at **Benha Faculty of Computers & Artificial Intelligence**
 
-<div align="center">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</div>
+💻 Passionate about **Software Development**
 
----
+📚 Focused on :
 
-### 🌟 Featured Projects
+ 🔹 C++  
+ 🔹 Object-Oriented Programming  
+ 🔹 Data Structures  
+ 🔹 Algorithms & Problem Solving  
 
+📈 Currently expanding into:
 
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **🏦 Bank System (Adv. OOP)** | `C++` `OOP` | Comprehensive banking with secure transactions & account management. |
-| **📚 Book Store Online** | `PHP` `MySQL` `JS` | Full-stack e-commerce platform for book lovers. |
-| **🏟 Stadium Reservation** | `Python` `OOP` | Automated stadium booking system using advanced OOP. |
-| **🏧 ATM Simulation** | `C++` | Realistic logic flow for banking withdrawals and deposits. |
-| **💻 WinForms Projects** | `.NET` `C#` | Desktop solutions currently being built on .NET Framework. |
+ 🔹 C#  
+ 🔹 .NET Development  
+ 🔹 Windows Forms  
+ 🔹 SQL Server  
+
+📍 Following **ProgrammingAdvices Roadmap**  
+👨‍🏫 Instructor **Dr. Mohammed Abu-Hadhoud**
 
 ---
 
-### 📊 GitHub Statistics
-<div align="center">
-  <img src="https://vercel.app" alt="Saud's Stats" height="180px" />
-  <img src="https://vercel.app" alt="Top Languages" height="180px" />
-</div>
+# 🛠 Skills & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+
+</p>
 
 ---
 
-### 🤝 Let's Connect
-<div align="center">
-  <a href="mailto:saud.aqel@example.com">
-    <img src="https://shields.io" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" />
-  </a>
-</div>
 
-<br />
+<p align="center">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="420"/>
+</p>
 
-<div align="center">
-  <img src="https://vercel.app" />
-</div>
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=AhmedYaser-Mt&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedYaser-Mt&theme=tokyo-night"/>
+</p>
+
+---
+
+# 📊 GitHub Metrics Dashboard
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedYaser-Mt&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedYaser-Mt&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedYaser-Mt&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+### ⭐ Bank System & Currency Exchange
+Complete banking system built using OOP.
+
+https://github.com/AhmedYaser-Mt/Project-13-Bank-System-and-Currency-Exchange_OOP
+
+---
+
+### 📦 Dynamic Array Class
+Custom implementation of a dynamic array in C++.
+
+https://github.com/AhmedYaser-Mt/Project-18-Dynamic-Array-Class
+
+---
+
+### 🔗 Double Linked List Class
+Full implementation of a double linked list data structure.
+
+https://github.com/AhmedYaser-Mt/Project-15-Double-Linked-List-Class
+
+---
+
+### 📚 String Library
+Custom string utilities using OOP.
+
+https://github.com/AhmedYaser-Mt/Project-8-String-Library-OOP-
+
+---
+
+### 📅 Date & Period Libraries
+Libraries for managing dates and periods.
+
+https://github.com/AhmedYaser-Mt/Project-9-Date-and-Period-Libraries-OOP-
+
+
+---
+
+# 📬 Contact Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ahmed-yaser-mt">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ahmed.yaser.mt@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://wa.me/201014842264">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/>
+</a>
+
+<a href="https://t.me/AhmedYaserMt">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram"/>
+</a>
+
+</p>
+
+---
+
+```cpp
+// Focused on mastering Software Development
+
+class AhmedYaserMt
+{
+public:
+
+  string university = "Benha University";
+
+ string faculty = "Faculty of Computers & Artificial Intelligence (BFCAI)";
+
+ string track = "Future Software Developer";
+
+ string passion = "Problem Solving & Building Systems";
+
+ void sayHi()
+ {
+     cout << "Thanks for visiting my profile 🚀";
+ }
+};
+```
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
