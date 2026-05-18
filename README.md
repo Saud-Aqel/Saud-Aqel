@@ -64,14 +64,6 @@
 
 ---
 
-# 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedYaser-Mt&theme=tokyo-night"/>
-</p>
-
----
-
 # 📊 GitHub Metrics Dashboard
 
 <p align="center">
