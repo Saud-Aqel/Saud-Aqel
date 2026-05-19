@@ -1,9 +1,9 @@
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000C40,50:112A8F,100:6078EA&height=200&section=header&text=Saud%20Aqel&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B19CD9,50:DCD0FF,100:B19CD9&height=200&section=header&text=Saud%20Aqel&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <h1 align="center">👋 Hello, I'm Saud Aqel</h1>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&duration=3000&pause=1000&color=FFFFFF;AEC0FF;D1DEFF&center=true&vCenter=true&width=700&lines=C%2B%2B+%7C+C%23+%7C+.NET+%7C+Windows+Forms+%7C+SQL+Server;OOP+%7C+Data+Structures;Algorithms+%26+Problem+Solving;Future+Software+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&duration=3000&pause=1000&color=9F8AD2;9F8AD2;B19CD9;DCD0FF&center=true&vCenter=true&width=700&lines=C%2B%2B+%7C+C%23+%7C+.NET+%7C+Windows+Forms+%7C+SQL+Server;OOP+%7C+Data+Structures;Algorithms+%26+Problem+Solving;Future+Software+Developer"/>
 </p>
   ---
 
