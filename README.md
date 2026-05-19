@@ -50,8 +50,7 @@
     </td>
     <td width="33%">
       <h3> 🚀 Backend & Frameworks</h3>
-      <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet"/>
       <img src="https://img.shields.io/badge/WinForms-0078D4?style=flat&logo=windows&logoColor=white" />
     </td>
     <td width="33%">
