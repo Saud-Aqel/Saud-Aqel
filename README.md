@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=150&section=header&text=Saud%20Aqel&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Saud%20Aqel&fontSize=42&fontColor=ffffff&animation=twinkling"/>
 
 <h1 align="center">👋 Hello, I'm Saud Aqel</h1>
 
