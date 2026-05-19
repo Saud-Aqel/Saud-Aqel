@@ -57,8 +57,7 @@
   <h3> 🛠 Database & Tools</h3>
   <img src="https://skillicons.dev/icons?i=visualstudio" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="42" height="42" />
-</td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="42" height="42" /></td>
   </tr>
 </table>
 
