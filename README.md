@@ -48,7 +48,7 @@
       <img src="https://img.shields.io/badge/OOP-green?style=flat" />
       <img src="https://img.shields.io/badge/DSA-yellow?style=flat" />
     </td>
-    <td width="33%">
+    <td width="43%">
       <h3>🚀 Backend & Frameworks</h3>
       <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" />
       <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
