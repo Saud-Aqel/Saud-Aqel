@@ -85,29 +85,33 @@
 
 <br>
 
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td width="50%" align="center" style="border: none;">
-      <a href="https://github.com/AhmedYaser-Mt/Project-13-Bank-System-and-Currency-Exchange_OOP_">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedYaser-Mt&repo=Project-13-Bank-System-and-Currency-Exchange_OOP_&bg_color=0D0B12&title_color=C2B2EB&text_color=ffffff&icon_color=C2B2EB&border_color=312942&show_icons=true" width="400" />
-      </a>
+<table align="center" width="850">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AhmedYaser-Mt/Project-13-Bank-System-and-Currency-Exchange_OOP_">🏦 Bank System & Currency Exchange</a></h3>
+      <p>An OOP-based Bank System in C++ extended with a Currency Exchange module. Allows viewing current exchange rates, converting currencies, & managing balances.</p>
+      <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/OOP-312942?style=flat&logoColor=C2B2EB" />
     </td>
-    <td width="50%" align="center" style="border: none;">
-      <a href="https://github.com/AhmedYaser-Mt/Project-18-Dynamic-Array-Class">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedYaser-Mt&repo=Project-18-Dynamic-Array-Class&bg_color=0D0B12&title_color=C2B2EB&text_color=ffffff&icon_color=C2B2EB&border_color=312942&show_icons=true" width="400" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AhmedYaser-Mt/Project-18-Dynamic-Array-Class">📦 Dynamic Array Class</a></h3>
+      <p>Engineered a fully reusable Dynamic Array template in C++ to demonstrate strong understanding of manual memory allocation and data structure implementation.</p>
+      <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/DSA-312942?style=flat&logoColor=C2B2EB" />
     </td>
   </tr>
-  <tr style="border: none;">
-    <td width="50%" align="center" style="border: none;">
-      <a href="https://github.com/AhmedYaser-Mt/Project-15-Double-Linked-List-Class">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedYaser-Mt&repo=Project-15-Double-Linked-List-Class&bg_color=0D0B12&title_color=C2B2EB&text_color=ffffff&icon_color=C2B2EB&border_color=312942&show_icons=true" width="400" />
-      </a>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AhmedYaser-Mt/Project-15-Double-Linked-List-Class">🔗 Doubly Linked List Class</a></h3>
+      <p>A reusable C++ Doubly Linked List implemented using templates and OOP principles. Supports core operations like insertion, deletion, and traversal.</p>
+      <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/DSA-312942?style=flat&logoColor=C2B2EB" />
     </td>
-    <td width="50%" align="center" style="border: none;">
-      <a href="https://github.com/AhmedYaser-Mt/Project-8-String-Library-OOP-">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedYaser-Mt&repo=Project-8-String-Library-OOP-&bg_color=0D0B12&title_color=C2B2EB&text_color=ffffff&icon_color=C2B2EB&border_color=312942&show_icons=true" width="400" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/AhmedYaser-Mt/Project-8-String-Library-OOP-">🔤 String Library OOP</a></h3>
+      <p>A reusable C++ string utility library built using Object-Oriented Programming, implementing various algorithms for text processing and string manipulation.</p>
+      <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/OOP-312942?style=flat&logoColor=C2B2EB" />
     </td>
   </tr>
 </table>
