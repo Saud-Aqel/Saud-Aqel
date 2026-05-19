@@ -1,15 +1,10 @@
 <!-- HEADER -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=004d40,009688&height=10&section=header"/>
-  
-  <br>
-  <h1>👨‍💻 Hi there, I'm Saud Aqel</h1>
-  <h3>Computer Science Student & Backend Developer</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=121212,1e1e1e&height=180&section=header&text=Saud_Aqel&fontSize=45&fontColor=4fc3f7&desc=Software%20Developer&descAlignY=70&descAlign=62"/>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=009688&center=true&vCenter=true&width=600&lines=Building+Backend+Solutions;Passionate+about+.NET+%26+C%23;Exploring+Data+Structures+%26+Algorithms" alt="Typing SVG" />
-  </p>
-</div> 
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=4000&color=4fc3f7&center=true&vCenter=true&width=800&lines=C%2B%2B+%E2%80%A2+C%23+%E2%80%A2+.NET+%E2%80%A2+SQL+Server;Object-Oriented+Programming;Problem+Solver+%26+Algorithm+Enthusiast" />
+</p>
 ---
 
 # 👨‍💻 About Me
