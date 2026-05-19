@@ -49,10 +49,10 @@
       <img src="https://img.shields.io/badge/DSA-yellow?style=flat" />
     </td>
     <td width="33%">
-      <h3> 🚀 Backend & Frameworks</h3>
-      <img src="https://skillicons.dev/icons?i=cs,dotnet"/>
-      <img src="https://img.shields.io/badge/WinForms-0078D4?style=flat&logo=windows&logoColor=white" />
-    </td>
+  <h3> 🚀 Backend & Frameworks</h3>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" align="middle" />
+  <img src="https://img.shields.io/badge/WinForms-0078D4?style=for-the-badge&logo=windows&logoColor=white" align="middle" />
+</td>
     <td width="33%" align="center">
   <h3> 🛠 Database & Tools</h3>
   <img src="https://skillicons.dev/icons?i=visualstudio" />
