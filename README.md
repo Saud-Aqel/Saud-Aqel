@@ -4,9 +4,7 @@
 </a>
 <h1 align="center">👋 Hello, I'm Saud Aqel</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&duration=3000&pause=1000&color=YOUR_HEX_CODE&center=true&vCenter=true&width=700&lines=C%2B%2B+%7C+C%23+%7C+.NET+%7C+Windows+Forms+%7C+SQL+Server;OOP+%7C+Data+Structures;Algorithms+%26+Problem+Solving;Future+Software+Developer"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&height=150&section=header&text=Saud%20Aqel&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 
 ---
 
