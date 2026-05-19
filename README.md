@@ -70,7 +70,9 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&bg_color=0D0B12&title_color=C2B2EB&text_color=ffffff&icon_color=C2B2EB&border_color=312942" alt="Test Stats" />
+
+<img src="https://streak-stats.demolab.com?user=AhmedYaser-Mt&theme=tokyonight"/>
+
 </p>
 
 ---
