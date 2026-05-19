@@ -79,41 +79,40 @@
 
 ---
 
-# ⭐ Featured Projects
+<div align="center">
 
-### ⭐ Bank System & Currency Exchange
-Complete banking system built using OOP.
+## 🚀 Featured Projects
 
-https://github.com/AhmedYaser-Mt/Project-13-Bank-System-and-Currency-Exchange_OOP
+<br>
 
----
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" align="center" style="border: none;">
+      <a href="https://github.com/AhmedYaser-Mt/Project-13-Bank-System-and-Currency-Exchange_OOP_">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedYaser-Mt&repo=Project-13-Bank-System-and-Currency-Exchange_OOP_&bg_color=0D0B12&title_color=C2B2EB&text_color=ffffff&icon_color=C2B2EB&border_color=312942&show_icons=true" width="400" />
+      </a>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <a href="https://github.com/AhmedYaser-Mt/Project-18-Dynamic-Array-Class">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedYaser-Mt&repo=Project-18-Dynamic-Array-Class&bg_color=0D0B12&title_color=C2B2EB&text_color=ffffff&icon_color=C2B2EB&border_color=312942&show_icons=true" width="400" />
+      </a>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td width="50%" align="center" style="border: none;">
+      <a href="https://github.com/AhmedYaser-Mt/Project-15-Double-Linked-List-Class">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedYaser-Mt&repo=Project-15-Double-Linked-List-Class&bg_color=0D0B12&title_color=C2B2EB&text_color=ffffff&icon_color=C2B2EB&border_color=312942&show_icons=true" width="400" />
+      </a>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <a href="https://github.com/AhmedYaser-Mt/Project-8-String-Library-OOP-">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhmedYaser-Mt&repo=Project-8-String-Library-OOP-&bg_color=0D0B12&title_color=C2B2EB&text_color=ffffff&icon_color=C2B2EB&border_color=312942&show_icons=true" width="400" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 📦 Dynamic Array Class
-Custom implementation of a dynamic array in C++.
-
-https://github.com/AhmedYaser-Mt/Project-18-Dynamic-Array-Class
-
----
-
-### 🔗 Double Linked List Class
-Full implementation of a double linked list data structure.
-
-https://github.com/AhmedYaser-Mt/Project-15-Double-Linked-List-Class
-
----
-
-### 📚 String Library
-Custom string utilities using OOP.
-
-https://github.com/AhmedYaser-Mt/Project-8-String-Library-OOP-
-
----
-
-### 📅 Date & Period Libraries
-Libraries for managing dates and periods.
-
-https://github.com/AhmedYaser-Mt/Project-9-Date-and-Period-Libraries-OOP-
-
+</div>
 
 ---
 
