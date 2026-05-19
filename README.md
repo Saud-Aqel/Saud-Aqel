@@ -53,11 +53,11 @@
       <img src="https://skillicons.dev/icons?i=cs,dotnet"/>
       <img src="https://img.shields.io/badge/WinForms-0078D4?style=flat&logo=windows&logoColor=white" />
     </td>
-    <td width="33%">
+    <td width="33%" align="center">
   <h3> 🛠 Database & Tools</h3>
   <img src="https://skillicons.dev/icons?i=visualstudio" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="42" height="42" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="42" height="42" />
 </td>
   </tr>
 </table>
