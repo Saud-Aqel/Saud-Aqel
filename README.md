@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=YOUR_HEX_CODE&height=200&section=header&text=Saud%20Aqel&fontSize=42&fontColor=YOUR_HEX_CODE&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=YOUR_HEX_CODE&height=200&section=header&text=Saud%20Aqel&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </a>
 <h1 align="center">👋 Hello, I'm Saud Aqel</h1>
 
