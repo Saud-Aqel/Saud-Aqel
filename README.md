@@ -67,11 +67,10 @@
 
 ---
 
-
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=AhmedYaser-Mt&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=Saud-Aqel&bg_color=0D0B12&border_color=312942&fire=C2B2EB&ring=C2B2EB&currStreakLabel=C2B2EB&sideLabels=C2B2EB&dates=A994DE&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 </p>
 
 ---
