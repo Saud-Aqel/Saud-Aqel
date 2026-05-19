@@ -6,33 +6,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&duration=3000&pause=1000&color=C2B2EB&center=true&vCenter=true&width=700&lines=C%2B%2B+%7C+C%23+%7C+.NET+%7C+Windows+Forms+%7C+SQL+Server;OOP+%7C+Data+Structures;Algorithms+%26+Problem+Solving;Future+Software+Developer" alt="Typing SVG" />
 </p>
 
----
+## 👨‍💻 About Me
 
-# 👨‍💻 About Me
+I am a CS student at **Sana'a University (FCI)**, deeply interested in software engineering and actively documenting my coding journey.
 
-🎓 Student at **Sana'a University - Faculty  of Computers & Information Technolgy**
+**🧠 Foundations & Core Skills** <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/OOP-Algorithms-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Data_Structures-Problem_Solving-success?style=for-the-badge" />
 
-💻 Interested in **Programming & Software Development** 
+**🚀 Currently Expanding Into (Backend Focus)** <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /> <img src="https://img.shields.io/badge/Windows%20Forms-0078D6?style=for-the-badge" /> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 
-📚 Focused on :
-
- 🔹 C++  
- 🔹 Object-Oriented Programming  
- 🔹 Data Structures  
- 🔹 Algorithms & Problem Solving  
-
-📈 Currently expanding into:
-
- 🔹 C#  
- 🔹 .NET Development  
- 🔹 Windows Forms  
- 🔹 SQL Server  
-
-📍 Following **ProgrammingAdvices Roadmap**  
-👨‍🏫 Instructor **Dr. Mohammed Abu-Hadhoud**
-
----
-
+> 📍 *Continuously upgrading my skills through the **ProgrammingAdvices Roadmap** under the guidance of **Dr. Mohammed Abu-Hadhoud**.*
 # 🛠 Skills & Tools
 
 <p align="center">
