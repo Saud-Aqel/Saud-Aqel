@@ -42,13 +42,13 @@
 
 <table align="center">
   <tr align="center">
-    <td width="30%">
+    <td width="25%">
       <h3>🧠Core & Langs</h3>
       <img src="https://img.shields.io/badge/C%2B%2B-blue?style=flat&logo=c%2B%2B&logoColor=white" />
       <img src="https://img.shields.io/badge/OOP-green?style=flat" />
       <img src="https://img.shields.io/badge/DSA-yellow?style=flat" />
     </td>
-    <td width="40%">
+    <td width="45%">
       <h3>🚀Backend & Frameworks</h3>
       <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white" />
       <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
