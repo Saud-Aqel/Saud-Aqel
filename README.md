@@ -1,12 +1,15 @@
 <!-- HEADER -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=004d40,009688&height=10&section=header"/>
+  
+  <br>
+  <h1>👨‍💻 Hi there, I'm Saud Aqel</h1>
+  <h3>Computer Science Student & Backend Developer</h3>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Saud%20Aqel&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-
-
-<h1 align="center">👋 Hello, I'm Saud Aqel</h1>
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&duration=3000&pause=1000&color=FFFFFF;E0E0E0;BDBDBD;9E9E9E&center=true&vCenter=true&width=700&lines=C%2B%2B+%7C+C%23+%7C+.NET+%7C+Windows+Forms+%7C+SQL+Server;OOP+%7C+Data+Structures;Algorithms+%26+Problem+Solving;Future+Software+Developer"/>
-</p>  
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=009688&center=true&vCenter=true&width=600&lines=Building+Backend+Solutions;Passionate+about+.NET+%26+C%23;Exploring+Data+Structures+%26+Algorithms" alt="Typing SVG" />
+  </p>
+</div> 
 ---
 
 # 👨‍💻 About Me
