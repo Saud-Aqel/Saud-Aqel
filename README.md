@@ -54,7 +54,7 @@
       <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/WinForms-0078D4?style=flat&logo=windows&logoColor=white" />
     </td>
-    <td width="33%">
+    <td width="43%">
       <h3>🛠 Database & Tools</h3>
       <img src="https://img.shields.io/badge/VS-5C2D91?style=flat&logo=visual-studio&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
