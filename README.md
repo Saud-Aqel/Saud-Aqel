@@ -39,19 +39,14 @@
 # 🛠 Skills & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio"/>
-
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio"/>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Windows_Forms-312942?style=for-the-badge&logo=windows&logoColor=C2B2EB"/>
+  <img src="https://img.shields.io/badge/SQL_Server-312942?style=for-the-badge&logo=microsoft-sql-server&logoColor=C2B2EB"/>
 </p>
-
+  
 ---
 
 
