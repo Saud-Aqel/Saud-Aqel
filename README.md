@@ -55,7 +55,7 @@
     </td>
     <td width="33%">
       <h3> 🛠 Database & Tools</h3>
-      <img src="https://skillicons.dev/icons?i=visualstudio,cpp"/>
+      <img src="https://skillicons.dev/icons?i=cpp,visualstudio"/>
     </td>
   </tr>
 </table>
