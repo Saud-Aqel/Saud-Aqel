@@ -4,9 +4,7 @@
 
 <h1 align="center">👋 Hello, I'm Saud Aqel</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00C9FF;48C6EF;36D1DC;5B86E5&center=true&vCenter=true&width=700&lines=C%2B%2B+%7C+C%23+%7C+.NET+%7C+Windows+Forms+%7C+SQL+Server;OOP+%7C+Data+Structures;Algorithms+%26+Problem+Solving;Future+Software+Developer"/>
-</p>
+
 
 ---
 
