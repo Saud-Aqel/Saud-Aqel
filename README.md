@@ -56,7 +56,7 @@
     </td>
     <td width="33%">
       <h3> 🛠 Database & Tools</h3>
-      <img src="https://img.shields.io/badge/VS-5C2D91?style=flat&logo=visual-studio&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=cpp,visualstudio"/>
       <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
     </td>
   </tr>
