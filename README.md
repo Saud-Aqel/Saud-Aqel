@@ -42,13 +42,13 @@
 
 <table align="center">
   <tr align="center">
- <td width="28%">
+ <td width="28%" align="center">
   <h3>🧠 Core & Langs</h3>
   <img src="https://skillicons.dev/icons?i=cpp" align="middle" />
   &nbsp;
-  <img src="https://img.shields.io/badge/OOP-green?style=for-the-badge" align="middle" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=529E2E&text=OOP&height=48&width=85&fontColor=ffffff&fontSize=22" align="middle" />
   &nbsp;
-  <img src="https://img.shields.io/badge/DSA-yellow?style=for-the-badge" align="middle" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=D8B024&text=DSA&height=48&width=85&fontColor=ffffff&fontSize=22" align="middle" />
 </td>
 <td width="33%">
   <h3> 🚀 Backend & Frameworks</h3>
