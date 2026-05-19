@@ -42,12 +42,14 @@
 
 <table align="center">
   <tr align="center">
-    <td width="33%">
-      <h3> 🧠 Core & Langs</h3>
-      <img src="https://skillicons.dev/icons?i=cpp"/>
-      <img src="https://img.shields.io/badge/OOP-green?style=flat" />
-      <img src="https://img.shields.io/badge/DSA-yellow?style=flat" />
-    </td>
+    <td width="28%">
+  <h3>🧠 Core & Langs</h3>
+  <img src="https://skillicons.dev/icons?i=cpp" align="middle" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OOP-green?style=for-the-badge" align="middle" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/DSA-yellow?style=for-the-badge" align="middle" />
+</td>
   <td width="33%">
   <h3> 🚀 Backend & Frameworks</h3>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,windows" />
