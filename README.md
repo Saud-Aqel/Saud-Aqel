@@ -42,11 +42,12 @@
 
 <table align="center">
   <tr align="center">
- <td width="28%" align="center">
+ <td width="28%">
   <h3>🧠 Core & Langs</h3>
-  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" align="middle" />
-  <br><br>
+  <img src="https://skillicons.dev/icons?i=cpp" align="middle" />
+  &nbsp;
   <img src="https://img.shields.io/badge/OOP-green?style=for-the-badge" align="middle" />
+  &nbsp;
   <img src="https://img.shields.io/badge/DSA-yellow?style=for-the-badge" align="middle" />
 </td>
 <td width="33%">
