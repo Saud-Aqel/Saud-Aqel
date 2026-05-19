@@ -16,19 +16,19 @@
 
 📚 Focused on :
 
- 🔹 C++  
- 🔹 Object-Oriented Programming  
- 🔹 Data Structures  
- 🔹 Algorithms & Problem Solving  
+ 🔹 C++  
+ 🔹 Object-Oriented Programming  
+ 🔹 Data Structures  
+ 🔹 Algorithms & Problem Solving  
 
 📈 Currently expanding into:
 
- 🔹 C#  
- 🔹 .NET Development  
- 🔹 Windows Forms  
- 🔹 SQL Server  
+ 🔹 C#  
+ 🔹 .NET Development  
+ 🔹 Windows Forms  
+ 🔹 SQL Server  
 
-📍 Following **ProgrammingAdvices Roadmap**  
+📍 Following **ProgrammingAdvices Roadmap**  
 👨‍🏫 Instructor **Dr. Mohammed Abu-Hadhoud**
 
 ---
