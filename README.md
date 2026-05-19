@@ -40,7 +40,7 @@
 
 ## 🛠 Skills & Tools
 
-<table align="center" width="850">
+<table align="center" width="1000">
   <tr align="center">
     <td width="30%">
       <h3>🧠 Core & Langs</h3>
