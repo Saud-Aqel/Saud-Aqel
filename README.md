@@ -56,7 +56,8 @@
     <td width="33%">
   <h3> 🛠 Database & Tools</h3>
   <img src="https://skillicons.dev/icons?i=visualstudio" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="42" height="42" />
 </td>
   </tr>
 </table>
