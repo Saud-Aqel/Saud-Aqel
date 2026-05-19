@@ -1,7 +1,8 @@
 <!-- HEADER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Saud%20Aqel&fontSize=42&fontColor=ffffff&animation=twinkling"/>
-
+<a href="https://github.com/SaudAqel">
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=800&height=200&lines=>_Hello,+World!;>_I'm+Saud+Aqel;>_Software+Developer;>_Initializing+Workspace..."/>
+</a>
 <h1 align="center">👋 Hello, I'm Saud Aqel</h1>
 
 <p align="center">
