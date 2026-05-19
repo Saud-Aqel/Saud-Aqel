@@ -70,7 +70,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saud-Aqel&bg_color=0D0B12&border_color=312942&fire=C2B2EB&ring=C2B2EB&currStreakLabel=C2B2EB&sideLabels=C2B2EB&dates=A994DE&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saud-Aqel&show_icons=true&bg_color=0D0B12&title_color=C2B2EB&text_color=ffffff&icon_color=C2B2EB&border_color=312942" alt="Saud's GitHub Stats" />
 </p>
 
 ---
