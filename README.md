@@ -1,16 +1,18 @@
 <!-- HEADER -->
-<div align="center">
-  <h2> 🖥️ Console.WriteLine("Welcome to Saud's Workspace"); </h2>
-</div>
+<table width="100%">
+  <tr>
+    <td width="65%">
+      <h1>👋 Hello, I'm Saud Aqel</h1>
+      <h3>Backend Developer & CS Student</h3>
+      <p>I specialize in building solid backend architectures and desktop applications.</p>
+      <p>Passionate about problem-solving, clean code, and mastering <b>C#</b> and <b>.NET</b>.</p>
+    </td>
+    <td align="center" width="35%">
+      <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="200" alt="Coding Animation"/>
+    </td>
+  </tr>
+</table>
 
-```json
-{
-  "developer": "Saud Aqel",
-  "major": "Computer Science",
-  "role": "Backend Developer",
-  "core_stack": ["C#", ".NET", "SQL Server", "C++"],
-  "current_focus": "Documenting my programming journey and building robust logic."
-}
 ---
 
 # 👨‍💻 About Me
