@@ -7,43 +7,32 @@
 </p>
 
 
-## 👨‍💻 About Me
+---
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎓 Background</h3>
-      <ul>
-        <li>Student at <b>Sana'a University</b></li>
-        <li>Faculty of Computer & Information Technology</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🧠 Foundations</h3>
-      <ul>
-        <li><b>C++</b> & OOP</li>
-        <li>Data Structures & Algorithms</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🚀 Expanding Into</h3>
-      <ul>
-        <li><b>C# & .NET Development</b></li>
-        <li>Windows Forms & SQL Server</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>📍 Roadmap</h3>
-      <ul>
-        <li>Following <b>ProgrammingAdvices</b></li>
-        <li>Instructor: <b>Dr. Mohammed Abu-Hadhoud</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-```
+# 👨‍💻 About Me
+
+🎓 Student at **Sana'a University - Faculty of Computers & Information Technology**
+
+💻 Interested in **Programming & Software Development** 
+
+📚 Focused on:
+🔹 C++ 
+🔹 Object-Oriented Programming 
+🔹 Data Structures 
+🔹 Algorithms & Problem Solving 
+
+📈 Currently expanding into:
+🔹 C# 
+🔹 .NET Development 
+🔹 Windows Forms 
+🔹 SQL Server 
+
+🌐 Documenting my coding journey and building projects on **LinkedIn**
+
+📍 Following **ProgrammingAdvices Roadmap** 👨‍🏫 Instructor **Dr. Mohammed Abu-Hadhoud**
+
+---
+
 # 🛠 Skills & Tools
 
 <p align="center">
