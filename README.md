@@ -1,9 +1,9 @@
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=121212,1e1e1e&height=180&section=header&text=Saud_Aqel&fontSize=45&fontColor=4fc3f7&desc=Software%20Developer&descAlignY=70&descAlign=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=150&section=header&text=Hello!%20I'm%20Saud&fontSize=40&fontColor=ffffff&animation=twinkling"/>
 
-<br>
+<h2 align="center">Architecting robust solutions with C# & .NET 🚀</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=4000&color=4fc3f7&center=true&vCenter=true&width=800&lines=C%2B%2B+%E2%80%A2+C%23+%E2%80%A2+.NET+%E2%80%A2+SQL+Server;Object-Oriented+Programming;Problem+Solver+%26+Algorithm+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=bold&size=22&pause=1500&color=FF5722;FF9800&center=true&vCenter=true&width=700&lines=Mastering+C%2B%2B+%26+C%23;Developing+with+Windows+Forms;Deep+Dive+into+OOP+%26+Algorithms" />
 </p>
 ---
 
