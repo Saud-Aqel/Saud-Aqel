@@ -44,7 +44,7 @@
   <tr align="center">
     <td width="33%">
       <h3> 🧠 Core & Langs</h3>
-      <img src="https://img.shields.io/badge/C%2B%2B-blue?style=flat&logo=c%2B%2B&logoColor=white" />
+      <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,visualstudio"/>
       <img src="https://img.shields.io/badge/OOP-green?style=flat" />
       <img src="https://img.shields.io/badge/DSA-yellow?style=flat" />
     </td>
