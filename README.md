@@ -46,9 +46,9 @@
   <h3>🧠 Core & Langs</h3>
   <img src="https://skillicons.dev/icons?i=cpp" align="middle" />
   &nbsp;
-  <img src="https://img.shields.io/badge/OOP-green?style=for-the-badge" height="48" align="middle" />
+  <img src="https://img.shields.io/badge/OOP-green?style=for-the-badge" height="50" align="middle" />
   &nbsp;
-  <img src="https://img.shields.io/badge/DSA-yellow?style=for-the-badge" height="48" align="middle" />
+  <img src="https://img.shields.io/badge/DSA-yellow?style=for-the-badge" height="30" align="middle" />
 </td>
   <td width="33%">
   <h3> 🚀 Backend & Frameworks</h3>
