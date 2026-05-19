@@ -1,17 +1,10 @@
 <!-- HEADER -->
-<table width="100%">
-  <tr>
-    <td width="65%">
-      <h1>👋 Hello, I'm Saud Aqel</h1>
-      <h3>Backend Developer & CS Student</h3>
-      <p>I specialize in building solid backend architectures and desktop applications.</p>
-      <p>Passionate about problem-solving, clean code, and mastering <b>C#</b> and <b>.NET</b>.</p>
-    </td>
-    <td align="center" width="35%">
-      <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" width="200" alt="Coding Animation"/>
-    </td>
-  </tr>
-</table>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Saud%20Aqel&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+
+
+<h1 align="center">👋 Hello, I'm Saud Aqel</h1>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&duration=3000&pause=1000&color=FFFFFF;E0E0E0;BDBDBD;9E9E9E&center=true&vCenter=true&width=700&lines=C%2B%2B+%7C+C%23+%7C+.NET+%7C+Windows+Forms+%7C+SQL+Server;OOP+%7C+Data+Structures;Algorithms+%26+Problem+Solving;Future+Software+Developer"/>
 
 ---
 
