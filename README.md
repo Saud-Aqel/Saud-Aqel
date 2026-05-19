@@ -42,23 +42,23 @@
 
 <table align="center">
   <tr align="center">
-    <td width="28%">
+ <td width="28%" align="center">
   <h3>🧠 Core & Langs</h3>
-  <img src="https://skillicons.dev/icons?i=cpp" align="middle" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/OOP-green?style=for-the-badge" height="50" align="middle" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/DSA-yellow?style=for-the-badge" height="30" align="middle" />
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" align="middle" />
+  <br><br>
+  <img src="https://img.shields.io/badge/OOP-green?style=for-the-badge" align="middle" />
+  <img src="https://img.shields.io/badge/DSA-yellow?style=for-the-badge" align="middle" />
 </td>
-  <td width="33%">
+<td width="33%">
   <h3> 🚀 Backend & Frameworks</h3>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,windows" />
 </td>
-    <td width="33%" align="center">
+<td width="33%" align="center">
   <h3> 🛠 Database & Tools</h3>
   <img src="https://skillicons.dev/icons?i=visualstudio" />
   &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="42" height="42" /></td>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="42" height="42" />
+</td>
   </tr>
 </table>
 
