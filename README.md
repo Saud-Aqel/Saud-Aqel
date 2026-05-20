@@ -118,13 +118,11 @@
 
 ---
 
----
-
 <h2 align="center">📬 Contact Me</h2>
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/SaudAqel">
+<a href="https://www.linkedin.com/in/saud-aqel">
 <img src="https://img.shields.io/badge/LinkedIn-312942?style=for-the-badge&logo=linkedin&logoColor=C2B2EB"/>
 </a>
 
@@ -132,17 +130,15 @@
 <img src="https://img.shields.io/badge/Gmail-312942?style=for-the-badge&logo=gmail&logoColor=C2B2EB"/>
 </a>
 
-<a href="https://wa.me/967000000000">
+<a href="https://wa.me/967782364217">
 <img src="https://img.shields.io/badge/WhatsApp-312942?style=for-the-badge&logo=whatsapp&logoColor=C2B2EB"/>
 </a>
 
-<a href="https://t.me/SaudAqel">
+<a href="https://t.me/Saud_CS">
 <img src="https://img.shields.io/badge/Telegram-312942?style=for-the-badge&logo=telegram&logoColor=C2B2EB"/>
 </a>
 
 </p>
-
----
 
 ---
 
