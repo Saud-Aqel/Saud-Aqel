@@ -118,27 +118,31 @@
 
 ---
 
-# 📬 Contact Me
+---
+
+<h2 align="center">📬 Contact Me</h2>
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/ahmed-yaser-mt">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/SaudAqel">
+<img src="https://img.shields.io/badge/LinkedIn-312942?style=for-the-badge&logo=linkedin&logoColor=C2B2EB"/>
 </a>
 
-<a href="mailto:ahmed.yaser.mt@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+<a href="mailto:saudaqel423@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-312942?style=for-the-badge&logo=gmail&logoColor=C2B2EB"/>
 </a>
 
-<a href="https://wa.me/201014842264">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp"/>
+<a href="https://wa.me/967000000000">
+<img src="https://img.shields.io/badge/WhatsApp-312942?style=for-the-badge&logo=whatsapp&logoColor=C2B2EB"/>
 </a>
 
-<a href="https://t.me/AhmedYaserMt">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram"/>
+<a href="https://t.me/SaudAqel">
+<img src="https://img.shields.io/badge/Telegram-312942?style=for-the-badge&logo=telegram&logoColor=C2B2EB"/>
 </a>
 
 </p>
+
+---
 
 ---
 
