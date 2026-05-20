@@ -72,7 +72,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saud-Aqel&background=0D0B12&border=312942&fire=C2B2EB&ring=C2B2EB&currStreakLabel=C2B2EB&sideLabels=C2B2EB&dates=A994DE&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Saud-Aqel&theme=shades-of-purple" alt="GitHub Streak" />
 </p>
 </div>
 
